@@ -9,7 +9,7 @@ I'm a Software Engineer, Biomedical Engineer, and Computer Engineer who is curre
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning Java, and Python for DS and Algorithm.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer.
 - 📫 You can [view my resume](#) and contact me by emailing bamiayo90@gmail.com.
 
 ---
